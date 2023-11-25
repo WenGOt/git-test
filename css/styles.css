@@ -9,6 +9,7 @@ body {
     width: 1280px;
     margin: 0 auto;
     font-family: "Gilroy";
+    background-color: black;
 }
 header {
     display: flex;
